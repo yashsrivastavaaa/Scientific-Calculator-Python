@@ -1,4 +1,4 @@
-# cientific-Calculator-Python-
+# Scientific-Calculator-Python-
 Here is "Scientific Calculator". You can perform Basic and Advanced Calculations using this. This Project was Created by me when I was in Class 12th.
 
 🤔 Real Life Problem
